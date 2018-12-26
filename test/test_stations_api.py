@@ -13,18 +13,32 @@
 
 from __future__ import absolute_import
 
+from sys import path
+import os
+from os.path import dirname as dir
+
+path.append(dir(path[0]))
+import importlib
+
 import unittest
 
-from lambda import bikes_api
-from bikes_api.api.stations_api import StationsApi  # noqa: E501
-from bikes_api.rest import ApiException
+from skill.connectors import bikes_api
+from skill.connectors.bikes_api.api.stations_api import StationsApi  # noqa: E501
+from skill.connectors.bikes_api.rest import ApiException
+
+import configuration
 
 
 class TestStationsApi(unittest.TestCase):
     """StationsApi unit test stubs"""
 
     def setUp(self):
-        self.api = bikes_api.api.stations_api.StationsApi()  # noqa: E501
+        api_config = bikes_api.Configuration()
+        api_config.api_key['apiKey'] = configuration.JCDECAUX_KEY
+
+        self.api = bikes_api.api.stations_api.StationsApi(
+                bikes_api.ApiClient(configuration=api_config)
+            )  # noqa: E501
 
     def tearDown(self):
         pass
@@ -34,14 +48,14 @@ class TestStationsApi(unittest.TestCase):
 
         Gets the list of stations  # noqa: E501
         """
-        pass
+        self.api.stations_get()
 
     def test_stations_station_number_get(self):
         """Test case for stations_station_number_get
 
         Gets a specific station  # noqa: E501
         """
-        pass
+        self.api.stations_station_number_get(194, 'Seville')
 
 
 if __name__ == '__main__':

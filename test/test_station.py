@@ -13,11 +13,18 @@
 
 from __future__ import absolute_import
 
+from sys import path
+import os
+from os.path import dirname as dir
+
+path.append(dir(path[0]))
+import importlib
+
 import unittest
 
-from lambda import bikes_api
-from bikes_api.models.station import Station  # noqa: E501
-from bikes_api.rest import ApiException
+from skill.connectors import bikes_api
+from skill.connectors.bikes_api.models.station import Station  # noqa: E501
+from skill.connectors.bikes_api.rest import ApiException
 
 
 class TestStation(unittest.TestCase):
@@ -31,9 +38,23 @@ class TestStation(unittest.TestCase):
 
     def testStation(self):
         """Test Station"""
-        # FIXME: construct object with mandatory attributes with example values
-        # model = bikes_api.models.station.Station()  # noqa: E501
-        pass
+        Station(
+            number= 194,
+            contract_name= "Seville",
+            name= "194_CALLE PARQUE DE DOÑANA",
+            address= "CALLE PARQUE DE DOÑANA - Aprox. Calle Corral de los Olmos",
+            position= {
+                'lat': 37.418732603824466,
+                'lng': -5.97319415962488
+            },
+            banking= True,
+            bonus= False,
+            bike_stands= 20,
+            available_bike_stands= 18,
+            available_bikes= 1,
+            status= "OPEN",
+            last_update= 1545820833000
+        )
 
 
 if __name__ == '__main__':

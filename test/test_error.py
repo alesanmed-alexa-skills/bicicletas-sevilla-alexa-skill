@@ -13,11 +13,18 @@
 
 from __future__ import absolute_import
 
+from sys import path
+import os
+from os.path import dirname as dir
+
+path.append(dir(path[0]))
+import importlib
+
 import unittest
 
-from lambda import bikes_api
-from bikes_api.models.error import Error  # noqa: E501
-from bikes_api.rest import ApiException
+from skill.connectors import bikes_api
+from skill.connectors.bikes_api.models.error import Error  # noqa: E501
+from skill.connectors.bikes_api.rest import ApiException
 
 
 class TestError(unittest.TestCase):
@@ -31,9 +38,9 @@ class TestError(unittest.TestCase):
 
     def testError(self):
         """Test Error"""
-        # FIXME: construct object with mandatory attributes with example values
-        # model = bikes_api.models.error.Error()  # noqa: E501
-        pass
+        Error(
+            error='404 Not found'
+        )
 
 
 if __name__ == '__main__':

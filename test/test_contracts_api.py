@@ -13,18 +13,31 @@
 
 from __future__ import absolute_import
 
+from sys import path
+import os
+from os.path import dirname as dir
+
+path.append(dir(path[0]))
+import importlib
+
 import unittest
 
-from lambda import bikes_api
-from bikes_api.api.contracts_api import ContractsApi  # noqa: E501
-from bikes_api.rest import ApiException
-
+from skill.connectors import bikes_api
+from skill.connectors.bikes_api.api.contracts_api import ContractsApi  # noqa: E501
+from skill.connectors.bikes_api.models.contract import Contract
+from skill.connectors.bikes_api.rest import ApiException
+import configuration
 
 class TestContractsApi(unittest.TestCase):
     """ContractsApi unit test stubs"""
 
     def setUp(self):
-        self.api = bikes_api.api.contracts_api.ContractsApi()  # noqa: E501
+        api_config = bikes_api.Configuration()
+        api_config.api_key['apiKey'] = configuration.JCDECAUX_KEY
+
+        self.api = bikes_api.api.contracts_api.ContractsApi(
+                bikes_api.ApiClient(configuration=api_config)
+            )  # noqa: E501
 
     def tearDown(self):
         pass
@@ -34,7 +47,25 @@ class TestContractsApi(unittest.TestCase):
 
         Gets the full list of JCDecaux contracts  # noqa: E501
         """
-        pass
+        self.api.contracts_get()
+    
+    def test_contracts_get_type(self):
+        """Test case for contracts_get
+
+        Assert the API returns a list  # noqa: E501
+        """
+        contracts = self.api.contracts_get()
+
+        self.assertTrue(isinstance(contracts, list))
+
+    def test_contracts_get_elements_type(self):
+        """Test case for contracts_get
+
+        Assert the API returns a list of objects # noqa: E501
+        """
+        contracts = self.api.contracts_get()
+
+        self.assertTrue(isinstance(contracts[0], Contract))
 
 
 if __name__ == '__main__':
