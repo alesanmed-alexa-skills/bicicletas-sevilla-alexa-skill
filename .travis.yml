@@ -1,7 +1,11 @@
 language: python
 python:
   - '3.6'
-  - '3.7'
+matrix:
+  include:
+    - python: 3.7
+      dist: xenial
+      sudo: true
 cache: pip
 before_install:
   - openssl aes-256-cbc -K $encrypted_18eace9e5aeb_key -iv $encrypted_18eace9e5aeb_iv -in test/configuration.py.enc -out test/configuration.py -d
