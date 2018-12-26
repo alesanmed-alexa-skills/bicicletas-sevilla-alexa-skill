@@ -1,0 +1,191 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "bicicletas de sevilla",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "cancelar"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "qué puedo hacer",
+                        "que puedo hacer",
+                        "ayudame",
+                        "ayuda"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "cancelar",
+                        "terminar",
+                        "fin",
+                        "para"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": [
+                        "inicio"
+                    ]
+                },
+                {
+                    "name": "StationBikesIntent",
+                    "slots": [
+                        {
+                            "name": "station_nr",
+                            "type": "AMAZON.NUMBER",
+                            "samples": [
+                                "La estación es la número {station_nr}",
+                                "La estación es la {station_nr}",
+                                "Estación {station_nr}",
+                                "La {station_nr}",
+                                "La número {station_nr}",
+                                "{station_nr}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "mírame las bicicletas de la estación {station_nr}",
+                        "mírame las bicis de la estación {station_nr}",
+                        "mírame cuántas bicis hay en la estación {station_nr}",
+                        "mírame cuántas bicicletas hay en la estación {station_nr}",
+                        "mira las bicicletas de la estación {station_nr}",
+                        "mira las bicis de la estación {station_nr}",
+                        "mira cuántas bicicletas hay en la estación {station_nr}",
+                        "mira cuántas bicis hay en la estación {station_nr}",
+                        "si hay bicicletas en la estación {station_nr}",
+                        "si hay bicis en la estación {station_nr}",
+                        "las bicicletas de la estación {station_nr}",
+                        "las bicis de la estación {station_nr}",
+                        "las bicicletas que hay en la estación {station_nr}",
+                        "las bicis que hay en la estación {station_nr}",
+                        "cuántas bicicletas hay en la estación {station_nr}",
+                        "cuántas bicis hay en la estación {station_nr}"
+                    ]
+                },
+                {
+                    "name": "StationSlotsIntent",
+                    "slots": [
+                        {
+                            "name": "station_nr",
+                            "type": "AMAZON.NUMBER",
+                            "samples": [
+                                "{station_nr}",
+                                "La número {station_nr}",
+                                "La {station_nr}",
+                                "Estación {station_nr}",
+                                "La estación es la {station_nr} ",
+                                "La estación es la número {station_nr}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "mírame los huecos de la estación {station_nr}",
+                        "mírame los sitios de la estación {station_nr}",
+                        "mírame cuántos sitios hay en la estación {station_nr}",
+                        "mírame cuántos huecos hay en la estación {station_nr}",
+                        "mira los huecos de la estación {station_nr}",
+                        "mira los sitios de la estación {station_nr}",
+                        "mira cuántos huecos hay en la estación {station_nr}",
+                        "mira cuántos sitios hay en la estación {station_nr}",
+                        "si hay huecos en la estación {station_nr}",
+                        "si hay sitios en la estación {station_nr}",
+                        "los huecos de la estación {station_nr}",
+                        "los sitios de la estación {station_nr}",
+                        "los huecos que hay en la estación {station_nr}",
+                        "los sitios que hay en la estación {station_nr}",
+                        "cuántos huecos hay en la estación {station_nr}",
+                        "cuántos sitios hay en la estación {station_nr}"
+                    ]
+                },
+                {
+                    "name": "StationStatusIntent",
+                    "slots": [
+                        {
+                            "name": "station_nr",
+                            "type": "AMAZON.NUMBER"
+                        }
+                    ],
+                    "samples": [
+                        "la estación {station_nr}",
+                        "por la estación {station_nr}",
+                        "por el estado de la estación {station_nr}",
+                        "cómo está la estación {station_nr}",
+                        "dime cómo está la estación {station_nr}",
+                        "dime el estado de la estación {station_nr}"
+                    ]
+                }
+            ],
+            "types": []
+        },
+        "dialog": {
+            "intents": [
+                {
+                    "name": "StationBikesIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "station_nr",
+                            "type": "AMAZON.NUMBER",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.908755518349.1097476836886"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "StationSlotsIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "station_nr",
+                            "type": "AMAZON.NUMBER",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.1509728998108.1383266480900"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "prompts": [
+            {
+                "id": "Elicit.Slot.908755518349.1097476836886",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Necesito el número de la estación para poder darte una respuesta"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Por favor, dime el número de la estación"
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.1509728998108.1383266480900",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Necesito el número de la estación para poder darte una respuesta"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Por favor, dime el número de la estación"
+                    }
+                ]
+            }
+        ]
+    }
+}
