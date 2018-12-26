@@ -2,7 +2,7 @@ mkdir ..\upload\
 
 xcopy /s ..\skill\* ..\upload\
 
-pipenv lock -r > ../upload/requirements.txt
+poetry run pip freeze > ../upload/requirements.txt
 
 pip install -r ../upload/requirements.txt -t ../upload/
 
