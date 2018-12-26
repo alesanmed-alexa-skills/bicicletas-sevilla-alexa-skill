@@ -1,14 +1,15 @@
 language: python
 python:
   - '3.6'
+  - '3.7'
 cache: pip
 before_install:
   - openssl aes-256-cbc -K $encrypted_18eace9e5aeb_key -iv $encrypted_18eace9e5aeb_iv -in test/configuration.py.enc -out test/configuration.py -d
-  - pip install pipenv
+  - pip install poetry
 install:
-  - pipenv install -d
+  - poetry install -D
 script:
-  - pipenv run python test/bikes_test.py
+  - poetry run python test/bikes_test.py
 notifications:
   email:
     recipients:
