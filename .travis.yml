@@ -3,11 +3,12 @@ python:
   - '3.6'
 cache: pip
 before_install:
-  - 'pip install pipenv'
+  - openssl aes-256-cbc -K $encrypted_18eace9e5aeb_key -iv $encrypted_18eace9e5aeb_iv -in test/configuration.py.enc -out test/configuration.py -d
+  - pip install pipenv
 install:
-  - 'pipenv install -d'
+  - pipenv install -d
 script:
-  - 'pipenv run python test/bikes_test.py'
+  - pipenv run python test/bikes_test.py
 notifications:
   email:
     recipients:
