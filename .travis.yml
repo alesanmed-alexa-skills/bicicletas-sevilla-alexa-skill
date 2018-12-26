@@ -2,8 +2,9 @@ language: python
 python:
   - '3.6'
 cache: pip
-install:
+before_install:
   - 'pip install pipenv'
+install:
   - 'pipenv install -d'
 script:
   - 'pipenv run python test/bikes_test.py'
