@@ -15,7 +15,7 @@
 from __future__ import absolute_import
 
 # import models into model package
-from swagger_client.models.contract import Contract
-from swagger_client.models.error import Error
-from swagger_client.models.station import Station
-from swagger_client.models.station_position import StationPosition
+from .contract import Contract
+from .error import Error
+from .station import Station
+from .station_position import StationPosition

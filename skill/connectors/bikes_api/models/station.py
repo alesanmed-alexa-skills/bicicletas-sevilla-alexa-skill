@@ -16,7 +16,7 @@ import re  # noqa: F401
 
 import six
 
-from swagger_client.models.station_position import StationPosition  # noqa: F401,E501
+from .station_position import StationPosition  # noqa: F401,E501
 
 
 class Station(object):
