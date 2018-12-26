@@ -6,7 +6,7 @@ install:
   - 'pip install pipenv'
   - 'pipenv install -d'
 script:
-  - 'pipenv run python test/bike_test.py'
+  - 'pipenv run python test/bikes_test.py'
 notifications:
   email:
     recipients:
