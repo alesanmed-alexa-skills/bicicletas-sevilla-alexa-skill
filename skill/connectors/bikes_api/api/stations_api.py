@@ -38,18 +38,18 @@ class StationsApi(object):
 
         Allows the user to get the full list of JCDecaux stations. Also allows  the user to retrieve the stations list of a specific contract.   # noqa: E501
         This method makes a synchronous HTTP request by default. To make an
-        asynchronous HTTP request, please pass async=True
-        >>> thread = api.stations_get(async=True)
+        asynchronous HTTP request, please pass async_=True
+        >>> thread = api.stations_get(async_=True)
         >>> result = thread.get()
 
-        :param async bool
+        :param async_ bool
         :param str contract: Name of the contract from which retrieve the list of stations
         :return: list[Station]
                  If the method is called asynchronously,
                  returns the request thread.
         """
         kwargs['_return_http_data_only'] = True
-        if kwargs.get('async'):
+        if kwargs.get('async_'):
             return self.stations_get_with_http_info(**kwargs)  # noqa: E501
         else:
             (data) = self.stations_get_with_http_info(**kwargs)  # noqa: E501
@@ -60,11 +60,11 @@ class StationsApi(object):
 
         Allows the user to get the full list of JCDecaux stations. Also allows  the user to retrieve the stations list of a specific contract.   # noqa: E501
         This method makes a synchronous HTTP request by default. To make an
-        asynchronous HTTP request, please pass async=True
-        >>> thread = api.stations_get_with_http_info(async=True)
+        asynchronous HTTP request, please pass async_=True
+        >>> thread = api.stations_get_with_http_info(async_=True)
         >>> result = thread.get()
 
-        :param async bool
+        :param async_ bool
         :param str contract: Name of the contract from which retrieve the list of stations
         :return: list[Station]
                  If the method is called asynchronously,
@@ -72,7 +72,7 @@ class StationsApi(object):
         """
 
         all_params = ['contract']  # noqa: E501
-        all_params.append('async')
+        all_params.append('async_')
         all_params.append('_return_http_data_only')
         all_params.append('_preload_content')
         all_params.append('_request_timeout')
@@ -118,7 +118,7 @@ class StationsApi(object):
             files=local_var_files,
             response_type='list[Station]',  # noqa: E501
             auth_settings=auth_settings,
-            async=params.get('async'),
+            async_=params.get('async_'),
             _return_http_data_only=params.get('_return_http_data_only'),
             _preload_content=params.get('_preload_content', True),
             _request_timeout=params.get('_request_timeout'),
@@ -129,11 +129,11 @@ class StationsApi(object):
 
         Allows the user to retrieve static and dynamic data from a specific station whithin a contract   # noqa: E501
         This method makes a synchronous HTTP request by default. To make an
-        asynchronous HTTP request, please pass async=True
-        >>> thread = api.stations_station_number_get(station_number, contract, async=True)
+        asynchronous HTTP request, please pass async_=True
+        >>> thread = api.stations_station_number_get(station_number, contract, async_=True)
         >>> result = thread.get()
 
-        :param async bool
+        :param async_ bool
         :param str station_number: The station number you want to retrieve (required)
         :param str contract: The contract to which the station belongs (required)
         :return: list[Station]
@@ -141,7 +141,7 @@ class StationsApi(object):
                  returns the request thread.
         """
         kwargs['_return_http_data_only'] = True
-        if kwargs.get('async'):
+        if kwargs.get('async_'):
             return self.stations_station_number_get_with_http_info(station_number, contract, **kwargs)  # noqa: E501
         else:
             (data) = self.stations_station_number_get_with_http_info(station_number, contract, **kwargs)  # noqa: E501
@@ -152,11 +152,11 @@ class StationsApi(object):
 
         Allows the user to retrieve static and dynamic data from a specific station whithin a contract   # noqa: E501
         This method makes a synchronous HTTP request by default. To make an
-        asynchronous HTTP request, please pass async=True
-        >>> thread = api.stations_station_number_get_with_http_info(station_number, contract, async=True)
+        asynchronous HTTP request, please pass async_=True
+        >>> thread = api.stations_station_number_get_with_http_info(station_number, contract, async_=True)
         >>> result = thread.get()
 
-        :param async bool
+        :param async_ bool
         :param str station_number: The station number you want to retrieve (required)
         :param str contract: The contract to which the station belongs (required)
         :return: list[Station]
@@ -165,7 +165,7 @@ class StationsApi(object):
         """
 
         all_params = ['station_number', 'contract']  # noqa: E501
-        all_params.append('async')
+        all_params.append('async_')
         all_params.append('_return_http_data_only')
         all_params.append('_preload_content')
         all_params.append('_request_timeout')
@@ -221,7 +221,7 @@ class StationsApi(object):
             files=local_var_files,
             response_type='list[Station]',  # noqa: E501
             auth_settings=auth_settings,
-            async=params.get('async'),
+            async_=params.get('async_'),
             _return_http_data_only=params.get('_return_http_data_only'),
             _preload_content=params.get('_preload_content', True),
             _request_timeout=params.get('_request_timeout'),
