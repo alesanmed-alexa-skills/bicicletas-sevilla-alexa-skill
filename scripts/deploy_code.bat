@@ -1,6 +1,6 @@
 mkdir ..\upload\
 
-xcopy /s ..\lambda\* ..\upload\
+xcopy /s ..\skill\* ..\upload\
 
 pipenv lock -r > ../upload/requirements.txt
 
