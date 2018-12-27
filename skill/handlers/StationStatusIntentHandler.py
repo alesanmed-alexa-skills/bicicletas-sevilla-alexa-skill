@@ -8,8 +8,8 @@ path.append(dir(path[0]))
 from ask_sdk_core.dispatch_components import AbstractRequestHandler
 from ask_sdk_core.utils import is_request_type, is_intent_name
 from ask_sdk_model.ui import SimpleCard
-from utils import locale_functions
-from connectors import bikes_connector
+from utils import locale_functions, logger
+from connectors import bikes_connector, db_object
 
 import pystache
 
@@ -26,7 +26,7 @@ class StationStatusIntentHandler(AbstractRequestHandler):
 
         attr = handler_input.attributes_manager.session_attributes
 
-        station_nr = handler_input.request_envelope.request.intent.slots.station_nr.value
+        station_nr = handler_input.request_envelope.request.intent.slots['station_nr'].value
 
         connector = bikes_connector.BikesConnector()
     
@@ -39,20 +39,20 @@ class StationStatusIntentHandler(AbstractRequestHandler):
             handler_input.attributes_manager.session_attributes = attr
 
             station_data = response['data']
+            station_obj = db_object.get_station_name(int(station_nr))
 
             if station_data.status != 'OPEN':
                 speech_text = pystache.render(texts.STATION_CLOSED_TEXT, {
-                    'station_name': station_data.name,
+                    'station_name': station_obj['name'].title(),
                     'station_nr': station_data.number,
                 })
             else:
                 speech_text = pystache.render(texts.STATION_STATUS_TEXT, {
-                    'station_name': station_data.name,
+                    'station_name': station_obj['name'].title(),
                     'station_nr': station_data.number,
                     'bikes_nr': station_data.available_bikes,
-                    'slots_nr': station_data.bike_stands,
+                    'slots_nr': station_data.available_bike_stands,
                 })
-
         elif response['code'] == 404:
             speech_text = pystache.render(texts.STATION_NOT_FOUND_TEXT, {
                 'station_nr': station_data.number,
@@ -60,6 +60,7 @@ class StationStatusIntentHandler(AbstractRequestHandler):
         else:
             speech_text = texts.STATION_GENERAL_ERROR_TEXT
 
+        logger.get_logger().info('Station status ended')
         (handler_input.response_builder
             .speak(speech_text)
             .set_card(SimpleCard(texts.SKILL_NAME, speech_text)))
