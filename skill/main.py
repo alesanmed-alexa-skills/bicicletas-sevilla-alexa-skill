@@ -9,6 +9,7 @@ from ask_sdk_core.dispatch_components import AbstractRequestInterceptor
 from ask_sdk_core.dispatch_components import AbstractRequestHandler
 
 from utils import logger
+from connectors import db_object
 
 
 logger.init_logger()
@@ -36,5 +37,11 @@ for file_name in files:
         sb.add_global_request_interceptor(HandlerClass())
 
 logger.get_logger().info('Added all handlers to SkillBuilder')
+
+logger.get_logger().info('Connecting to database')
+
+db_object.__connect()
+
+logger.get_logger().info('Database connected')
 
 handler = sb.lambda_handler()
