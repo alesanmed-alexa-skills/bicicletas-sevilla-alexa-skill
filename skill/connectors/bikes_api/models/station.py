@@ -34,15 +34,15 @@ class Station(object):
     """
     swagger_types = {
         'address': 'str',
-        'available_bike_stands': 'float',
-        'available_bikes': 'float',
+        'available_bike_stands': 'int',
+        'available_bikes': 'int',
         'banking': 'bool',
-        'bike_stands': 'float',
+        'bike_stands': 'int',
         'bonus': 'bool',
         'contract_name': 'str',
         'last_update': 'float',
         'name': 'str',
-        'number': 'float',
+        'number': 'int',
         'position': 'StationPosition',
         'status': 'str'
     }
