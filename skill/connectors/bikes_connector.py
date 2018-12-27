@@ -5,8 +5,8 @@ from os.path import dirname as dir
 
 path.append(dir(path[0]))
 
-import bikes_api
-from bikes_api.rest import ApiException
+from . import bikes_api
+from .bikes_api.rest import ApiException
 from configurations import skill_config
 from utils import logger
 
