@@ -36,7 +36,7 @@ class TestStationsApi(unittest.TestCase):
         api_config = bikes_api.Configuration()
         api_config.api_key['apiKey'] = configuration.JCDECAUX_KEY
 
-        self.api = bikes_api.api.stations_api.StationsApi(
+        self.api = StationsApi(
                 bikes_api.ApiClient(configuration=api_config)
             )  # noqa: E501
 
