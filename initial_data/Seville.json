@@ -1,0 +1,2058 @@
+[
+    {
+        "number": 194,
+		"city": "Seville",
+        "name": "PARQUE DE DOÑANA",
+        "address": "PARQUE DE DOÑANA - Corral de los Olmos",
+        "latitude": 37.418732603824466,
+        "longitude": -5.97319415962488
+    },
+    {
+        "number": 126,
+		"city": "Seville",
+        "name": "AVENIDA REINA MERCEDES",
+        "address": "AVENIDA REINA MERCEDES - Facultad de Informática",
+        "latitude": 37.358164858839395,
+        "longitude": -5.986482708713183
+    },
+    {
+        "number": 73,
+		"city": "Seville",
+        "name": "PLAZA SAN AGUSTIN",
+        "address": "PLAZA SAN AGUSTIN - Concepción",
+        "latitude": 37.38951386231434,
+        "longitude": -5.984362789545622
+    },
+    {
+        "number": 186,
+		"city": "Seville",
+        "name": "ORFEBRE DOMINGUEZ VÁZQUEZ",
+        "address": "ORFEBRE DOMINGUEZ VÁZQUEZ - Pino Montano",
+        "latitude": 37.40860456343952,
+        "longitude": -5.973161153696026
+    },
+    {
+        "number": 100,
+		"city": "Seville",
+        "name": "PASEO CATALINA RIBERA",
+        "address": "PASEO CATALINA RIBERA - San Fernando",
+        "latitude": 37.381516148333745,
+        "longitude": -5.98899864813969
+    },
+    {
+        "number": 96,
+		"city": "Seville",
+        "name": "BETIS",
+        "address": "BETIS - Juan de Lugo",
+        "latitude": 37.3835407311529,
+        "longitude": -5.999910722822249
+    },
+    {
+        "number": 132,
+		"city": "Seville",
+        "name": "PAEZ DE RIVERA",
+        "address": "PAEZ DE RIVERA - Paseo de la Palmera",
+        "latitude": 37.36361937962884,
+        "longitude": -5.984785168525709
+    },
+    {
+        "number": 256,
+		"city": "Seville",
+        "name": "MIGUEL MONTORO",
+        "address": "Esquina Pero Mingo",
+        "latitude": 37.386100496778624,
+        "longitude": -5.910090919676698
+    },
+    {
+        "number": 82,
+		"city": "Seville",
+        "name": "LUIS MONTOTO",
+        "address": "LUIS MONTOTO - Maese Farfán",
+        "latitude": 37.387098477016366,
+        "longitude": -5.974843147214583
+    },
+    {
+        "number": 202,
+		"city": "Seville",
+        "name": "AVENIDA MUJER TRABAJADORA",
+        "address": "AVENIDA MUJER TRABAJADORA - Avda Miraflores",
+        "latitude": 37.41146657719195,
+        "longitude": -5.966763132907271
+    },
+    {
+        "number": 226,
+		"city": "Seville",
+        "name": "AVENIDA DOCTOR EMILIO LEMOS",
+        "address": "AVENIDA DOCTOR EMILIO LEMOS - de Birmania",
+        "latitude": 37.402862871745285,
+        "longitude": -5.921753676327738
+    },
+    {
+        "number": 103,
+		"city": "Seville",
+        "name": "AVENIDA EDUARDO DATO",
+        "address": "AVENIDA EDUARDO DATO - San Bernardo",
+        "latitude": 37.384432463478554,
+        "longitude": -5.982738173371375
+    },
+    {
+        "number": 16,
+		"city": "Seville",
+        "name": "DE MANUEL VILLALOBOS",
+        "address": "DE MANUEL VILLALOBOS - Sor Francisca Dorotea",
+        "latitude": 37.40705079945115,
+        "longitude": -5.982430505819379
+    },
+    {
+        "number": 143,
+		"city": "Seville",
+        "name": "RAMON DE CARRANZA",
+        "address": "RAMON DE CARRANZA - Virgen de la Oliva",
+        "latitude": 37.37172440518047,
+        "longitude": -6.00331223823691
+    },
+    {
+        "number": 46,
+		"city": "Seville",
+        "name": "PLAZA DEL PELICANO",
+        "address": "PLAZA DEL PELICANO - Enladrilladas",
+        "latitude": 37.397593515590735,
+        "longitude": -5.983873184934495
+    },
+    {
+        "number": 209,
+		"city": "Seville",
+        "name": "AVENIDA ALEMANIA",
+        "address": "AVENIDA ALEMANIA - Glorieta Chekia",
+        "latitude": 37.34531731164308,
+        "longitude": -5.982656150368391
+    },
+    {
+        "number": 26,
+		"city": "Seville",
+        "name": "AVENIDA DE MIRAFLORES",
+        "address": "AVENIDA DE MIRAFLORES - Manuel Ródenas",
+        "latitude": 37.40249453741322,
+        "longitude": -5.977678166024575
+    },
+    {
+        "number": 255,
+		"city": "Seville",
+        "name": "PERO MINGO",
+        "address": "Esquina rotanda Torreblanca",
+        "latitude": 37.385659308608595,
+        "longitude": -5.913451790889467
+    },
+    {
+        "number": 221,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE LUIS URUÑUELA",
+        "address": "AVENIDA ALCALDE LUIS URUÑUELA - Hotel Sevilla Congresos",
+        "latitude": 37.40560856297865,
+        "longitude": -5.930524002164018
+    },
+    {
+        "number": 128,
+		"city": "Seville",
+        "name": "VIRGEN DE LORETO",
+        "address": "Virgen de Loreto - Arcos",
+        "latitude": 37.37645342505249,
+        "longitude": -6.000632231559362
+    },
+    {
+        "number": 9,
+		"city": "Seville",
+        "name": "CAMINO DE LOS DESCUBRIMIENTOS",
+        "address": "CAMINO DE LOS DESCUBRIMIENTOS - Albert Einstein",
+        "latitude": 37.40332453110276,
+        "longitude": -6.004020258912579
+    },
+    {
+        "number": 119,
+		"city": "Seville",
+        "name": "AVENIDA DE CHILE",
+        "address": "AVENIDA DE CHILE - Costurero de la Reina",
+        "latitude": 37.37740443203299,
+        "longitude": -5.991965201690994
+    },
+    {
+        "number": 33,
+		"city": "Seville",
+        "name": "LEÓN XIII",
+        "address": "LEÓN XIII - Antonio Pantión",
+        "latitude": 37.401460531089214,
+        "longitude": -5.983690186516563
+    },
+    {
+        "number": 200,
+		"city": "Seville",
+        "name": "CAMINO DE LOS TOROS",
+        "address": "CAMINO DE LOS TOROS - Mediterráneo",
+        "latitude": 37.41891360818369,
+        "longitude": -5.963217124751443
+    },
+    {
+        "number": 77,
+		"city": "Seville",
+        "name": "PLAZA CHAPINA",
+        "address": "PLAZA CHAPINA - Hotel Abba Triana",
+        "latitude": 37.389629475123165,
+        "longitude": -6.007581263540937
+    },
+    {
+        "number": 249,
+		"city": "Seville",
+        "name": "NAVARRA",
+        "address": "NAVARRA - Cataluña",
+        "latitude": 37.42475843174024,
+        "longitude": -5.984823673360926
+    },
+    {
+        "number": 87,
+		"city": "Seville",
+        "name": "PLAZA NUEVA",
+        "address": "PLAZA NUEVA - Tetuan",
+        "latitude": 37.38896647697466,
+        "longitude": -5.995294220038549
+    },
+    {
+        "number": 188,
+		"city": "Seville",
+        "name": "AVENIDA HYTASA",
+        "address": "AVENIDA HYTASA - Romeral",
+        "latitude": 37.37256042361221,
+        "longitude": -5.963362098447178
+    },
+    {
+        "number": 36,
+		"city": "Seville",
+        "name": "SAN VICENTE",
+        "address": "SAN VICENTE - Guadalquivir",
+        "latitude": 37.40050052188098,
+        "longitude": -5.998403237581298
+    },
+    {
+        "number": 220,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE LUIS URUÑUELA",
+        "address": "AVENIDA ALCALDE LUIS URUÑUELA - Centro Comercial Zona Este",
+        "latitude": 37.40518956185269,
+        "longitude": -5.935780020616404
+    },
+    {
+        "number": 21,
+		"city": "Seville",
+        "name": "MANUEL VILLALOBOS",
+        "address": "MANUEL VILLALOBOS - Madre San Marcelo",
+        "latitude": 37.405473547892335,
+        "longitude": -5.981527181236149
+    },
+    {
+        "number": 154,
+		"city": "Seville",
+        "name": "AVENIDA KANSAS CITY",
+        "address": "AVENIDA KANSAS CITY - Naranjito de Triana",
+        "latitude": 37.394836510246314,
+        "longitude": -5.96842612917054
+    },
+    {
+        "number": 24,
+		"city": "Seville",
+        "name": "LEÓN XIII",
+        "address": "LEÓN XIII - Fray Isidoro de Sevilla",
+        "latitude": 37.404035541034794,
+        "longitude": -5.984592191160378
+    },
+    {
+        "number": 38,
+		"city": "Seville",
+        "name": "DE INCA GARCILASO",
+        "address": "DE INCA GARCILASO - Juan Antonio de Vizarrón",
+        "latitude": 37.3920814836453,
+        "longitude": -6.011051277130786
+    },
+    {
+        "number": 203,
+		"city": "Seville",
+        "name": "TESALÓNICA",
+        "address": "TESALÓNICA - Mazzantini",
+        "latitude": 37.396093518802566,
+        "longitude": -5.958764096016824
+    },
+    {
+        "number": 195,
+		"city": "Seville",
+        "name": "CORRAL DEL AGUA",
+        "address": "CORRAL DEL AGUA - Camino de los toros",
+        "latitude": 37.42171561628419,
+        "longitude": -5.971648155914519
+    },
+    {
+        "number": 12,
+		"city": "Seville",
+        "name": "PLAZA DUQUESA DE ALBA",
+        "address": "PLAZA DUQUESA DE ALBA - Puente de la Barqueta",
+        "latitude": 37.403869536605576,
+        "longitude": -5.994904227249628
+    },
+    {
+        "number": 241,
+		"city": "Seville",
+        "name": "PLAZA NUEVA",
+        "address": "PLAZA NUEVA - Mendez Núñez",
+        "latitude": 37.38881544328257,
+        "longitude": -5.995863788052556
+    },
+    {
+        "number": 60,
+		"city": "Seville",
+        "name": "PLAZA DE LA CONCORDIA",
+        "address": "PLAZA DE LA CONCORDIA - Teniente Borges",
+        "latitude": 37.39395749631202,
+        "longitude": -5.996899228542791
+    },
+    {
+        "number": 208,
+		"city": "Seville",
+        "name": "AVENIDA DE GRECIA",
+        "address": "AAVENIDA DE GRECIA - Avda de Italia",
+        "latitude": 37.35065632807553,
+        "longitude": -5.984190158922543
+    },
+    {
+        "number": 168,
+		"city": "Seville",
+        "name": "AVENIDA RAMÓN Y CAJAL",
+        "address": "AVENIDA RAMÓN Y CAJAL - Avda de la Ciudad Jardín",
+        "latitude": 37.37505743166244,
+        "longitude": -5.967492114476132
+    },
+    {
+        "number": 169,
+		"city": "Seville",
+        "name": "AVENIDA RAMÓN Y CAJAL",
+        "address": "AVENIDA RAMÓN Y CAJAL - Villegas Marmolejo",
+        "latitude": 37.37650143552164,
+        "longitude": -5.972667133462907
+    },
+    {
+        "number": 206,
+		"city": "Seville",
+        "name": "AVENIDA KANSAS CITY",
+        "address": "AVENIDA KANSAS CITY - Macedonia",
+        "latitude": 37.402963548427635,
+        "longitude": -5.958211097806437
+    },
+    {
+        "number": 66,
+		"city": "Seville",
+        "name": "ARROYO",
+        "address": "ARROYO - Avda. José Laguillo",
+        "latitude": 37.39362550048881,
+        "longitude": -5.981869175620968
+    },
+    {
+        "number": 61,
+		"city": "Seville",
+        "name": "PLAZA DEL MUSEO",
+        "address": "PLAZA DEL MUSEO - Alfonso XII",
+        "latitude": 37.392813490850365,
+        "longitude": -5.999344236464369
+    },
+    {
+        "number": 211,
+		"city": "Seville",
+        "name": "AVENIDA DE ALEMANIA",
+        "address": "AVENIDA DE ALEMANIA - Glorieta de Letonia",
+        "latitude": 37.34620231070945,
+        "longitude": -5.976200128537064
+    },
+    {
+        "number": 41,
+		"city": "Seville",
+        "name": "PLAZA CALDERÓN DE LA BARCA",
+        "address": "PLAZA CALDERÓN DE LA BARCA - Amargura",
+        "latitude": 37.39958252091155,
+        "longitude": -5.991029211181825
+    },
+    {
+        "number": 125,
+		"city": "Seville",
+        "name": "AVENIDA SAN FRANCISCO JAVIER",
+        "address": "AVENIDA SAN FRANCISCO JAVIER - Avda De Ramón y Cajal",
+        "latitude": 37.377406438312754,
+        "longitude": -5.974900141818838
+    },
+    {
+        "number": 58,
+		"city": "Seville",
+        "name": "REGINA",
+        "address": "REGINA - Pza de la Encarnación",
+        "latitude": 37.39436722277961,
+        "longitude": -5.991544993040244
+    },
+    {
+        "number": 148,
+		"city": "Seville",
+        "name": "THARSIS",
+        "address": "THARSIS - Aorno",
+        "latitude": 37.39876767567268,
+        "longitude": -5.973182395926595
+    },
+    {
+        "number": 118,
+		"city": "Seville",
+        "name": "PLAZA DE CUBA",
+        "address": "PLAZA DE CUBA - Puente de San Telmo",
+        "latitude": 37.379791416292186,
+        "longitude": -5.997107796424417
+    },
+    {
+        "number": 122,
+		"city": "Seville",
+        "name": "ENRAMADILLA",
+        "address": "ENRAMADILLA - Balbino Marrón",
+        "latitude": 37.37848444133301,
+        "longitude": -5.978389154681133
+    },
+    {
+        "number": 192,
+		"city": "Seville",
+        "name": "AVENIDA DE ALVAR NUÑEZ",
+        "address": "AVENIDA DE ALVAR NUÑEZ - Collante",
+        "latitude": 37.37833442855656,
+        "longitude": -6.011556270990402
+    },
+    {
+        "number": 101,
+		"city": "Seville",
+        "name": "PRADO DE SAN SEBASTIAN",
+        "address": "PRADO DE SAN SEBASTIAN - Estación de autobuses",
+        "latitude": 37.38111568185353,
+        "longitude": -5.986949751279455
+    },
+    {
+        "number": 67,
+		"city": "Seville",
+        "name": "LEONARDO DA VINCI",
+        "address": "LEONARDO DA VINCI - Albert Einstein",
+        "latitude": 37.404162533250535,
+        "longitude": -6.00730227091074
+    },
+    {
+        "number": 246,
+		"city": "Seville",
+        "name": "PUERTO DE LOS AZORES",
+        "address": "PUERTO DE LOS AZORES - Paulo Orosio",
+        "latitude": 37.376139062455664,
+        "longitude": -5.955017317014327
+    },
+    {
+        "number": 207,
+		"city": "Seville",
+        "name": "IFNI",
+        "address": "IFNI - Avda de Holanda",
+        "latitude": 37.35501634616241,
+        "longitude": -5.982370155065175
+    },
+    {
+        "number": 102,
+		"city": "Seville",
+        "name": "JUAN DE MATA CARRIAZO",
+        "address": "JUAN DE MATA CARRIAZO - antigua estación San Bernardo",
+        "latitude": 37.38273945636004,
+        "longitude": -5.983720175839885
+    },
+    {
+        "number": 173,
+		"city": "Seville",
+        "name": "RONDA TAMARGUILLO",
+        "address": "RONDA TAMARGUILLO - Avda de la Paz",
+        "latitude": 37.370048411458974,
+        "longitude": -5.968064113583803
+    },
+    {
+        "number": 14,
+		"city": "Seville",
+        "name": "AVENIDA SANCHEZ PIZJUAN",
+        "address": "AVENIDA SANCHEZ PIZJUAN - Facultad de Medicina",
+        "latitude": 37.4064737057759,
+        "longitude": -5.989118739088445
+    },
+    {
+        "number": 171,
+		"city": "Seville",
+        "name": "ALFONSO LASO DE LA VEGA",
+        "address": "ALFONSO LASO DE LA VEGA - Parroco Antonio González",
+        "latitude": 37.36614639337372,
+        "longitude": -5.974870135199807
+    },
+    {
+        "number": 59,
+		"city": "Seville",
+        "name": "AVENIDA DE LA PALMERA",
+        "address": "AVENIDA DE LA PALMERA - Avenida del Líbano",
+        "latitude": 37.37123840842449,
+        "longitude": -5.989210188461531
+    },
+    {
+        "number": 232,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE LUIS URUÑUELA",
+        "address": "AVENIDA ALCALDE LUIS URUÑUELA - Pza de la Acogida",
+        "latitude": 37.40393955876748,
+        "longitude": -5.939739033438785
+    },
+    {
+        "number": 167,
+		"city": "Seville",
+        "name": "GLORIETA BIZCO AMATE",
+        "address": "GLORIETA BIZCO AMATE - Avda Ramón y Cajal",
+        "latitude": 37.37334966832237,
+        "longitude": -5.964933613203329
+    },
+    {
+        "number": 81,
+		"city": "Seville",
+        "name": "LUIS MONTOTO",
+        "address": "LUIS MONTOTO - Benitos Mas y Prat",
+        "latitude": 37.387156202671285,
+        "longitude": -5.971016767894659
+    },
+    {
+        "number": 234,
+		"city": "Seville",
+        "name": "MÉDICOS SIN FRONTERA",
+        "address": "MÉDICOS SIN FRONTERA - Avda de las Ciencias",
+        "latitude": 37.3999401269442,
+        "longitude": -5.925163964339344
+    },
+    {
+        "number": 253,
+		"city": "Seville",
+        "name": "HOSPITAL VALME",
+        "address": "HOPITAL VALME.-Esquina Carretera Bellasvistas",
+        "latitude": 37.320417860390016,
+        "longitude": -5.96902252657327
+    },
+    {
+        "number": 64,
+		"city": "Seville",
+        "name": "CUESTA DE ROSARIO",
+        "address": "CUESTA DE ROSARIO - Pza de la Pescadería",
+        "latitude": 37.38985648205481,
+        "longitude": -5.991125205922743
+    },
+    {
+        "number": 79,
+		"city": "Seville",
+        "name": "PLAZA DE LAS MERCEDARIAS",
+        "address": "PLAZA DE LAS MERCEDARIAS - Ibarra",
+        "latitude": 37.388326477494125,
+        "longitude": -5.98690419023187
+    },
+    {
+        "number": 235,
+		"city": "Seville",
+        "name": "CIUDAD DE CHIVA",
+        "address": "CIUDAD DE CHIVA - ciudad de Alfajar",
+        "latitude": 37.411735810991,
+        "longitude": -5.929859071297002
+    },
+    {
+        "number": 227,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE LUIS URUÑUELA",
+        "address": "AVENIDA ALCALDE LUIS URUÑUELA - Carlinga",
+        "latitude": 37.39075351415996,
+        "longitude": -5.91963595581283
+    },
+    {
+        "number": 90,
+		"city": "Seville",
+        "name": "ROMA",
+        "address": "ROMA - Palos de la Frontera",
+        "latitude": 37.381198446608074,
+        "longitude": -5.993528209364882
+    },
+    {
+        "number": 214,
+		"city": "Seville",
+        "name": "AVENIDA DE ANDALUCIA",
+        "address": "AVENIDA DE ANDALUCIA - Entrada TUSSAM",
+        "latitude": 37.38714348690405,
+        "longitude": -5.948410054553437
+    },
+    {
+        "number": 224,
+		"city": "Seville",
+        "name": "AVENIDA DE LAS CIENCIAS",
+        "address": "AVENIDA DE LAS CIENCIAS - de Ulises",
+        "latitude": 37.397013539467245,
+        "longitude": -5.923756974136509
+    },
+    {
+        "number": 117,
+		"city": "Seville",
+        "name": "AVDA ESPERANZA DE TRIANA",
+        "address": "AVDA ESPERANZA DE TRIANA - Avda Republica Argentina",
+        "latitude": 37.377806429728786,
+        "longitude": -6.002613239293098
+    },
+    {
+        "number": 160,
+		"city": "Seville",
+        "name": "PASEO CRISTOBAL COLON",
+        "address": "PASEO CRISTOBAL COLON - Puente de Triana",
+        "latitude": 37.387178,
+        "longitude": -6.001376
+    },
+    {
+        "number": 123,
+		"city": "Seville",
+        "name": "ESTADIO OLIMPICO",
+        "address": "ESTADIO OLIMPICO",
+        "latitude": 37.41585058006381,
+        "longitude": -6.005474271334001
+    },
+    {
+        "number": 258,
+		"city": "Seville",
+        "name": "ESTACA DE VARES",
+        "address": "Esquina Creus",
+        "latitude": 37.38369648551305,
+        "longitude": -5.914819934855601
+    },
+    {
+        "number": 142,
+		"city": "Seville",
+        "name": "RAMON DE CARRANZA",
+        "address": "RAMON DE CARRANZA - Asunción",
+        "latitude": 37.371651407131054,
+        "longitude": -5.997212216783402
+    },
+    {
+        "number": 244,
+		"city": "Seville",
+        "name": "AVENIDA LOS GAVILANES",
+        "address": "AVENIDA LOS GAVILANES - Avda Juan XXIII",
+        "latitude": 37.3780400290467,
+        "longitude": -5.95178368562984
+    },
+    {
+        "number": 190,
+		"city": "Seville",
+        "name": "AVENIDA HYTASA",
+        "address": "AVENIDA HYTASA - Herramienta",
+        "latitude": 37.36873540997663,
+        "longitude": -5.957293074803896
+    },
+    {
+        "number": 247,
+		"city": "Seville",
+        "name": "AVDA. RAMON Y CAJAL",
+        "address": "Esquina con CalleEnramadilla",
+        "latitude": 37.37823143994186,
+        "longitude": -5.979362157954825
+    },
+    {
+        "number": 51,
+		"city": "Seville",
+        "name": "AVENIDA TORNEO",
+        "address": "AVENIDA TORNEO - Luis Rey Romero",
+        "latitude": 37.395519500564795,
+        "longitude": -6.002321248467498
+    },
+    {
+        "number": 251,
+		"city": "Seville",
+        "name": "AVDA. CRUZ CAMPO",
+        "address": "Esquina con Alejandro Collantes",
+        "latitude": 37.384349424571234,
+        "longitude": -5.965378365247481
+    },
+    {
+        "number": 141,
+		"city": "Seville",
+        "name": "FELIPE II",
+        "address": "FELIPE II - Ramón Carande",
+        "latitude": 37.37173344957564,
+        "longitude": -5.981895354240737
+    },
+    {
+        "number": 242,
+		"city": "Seville",
+        "name": "PLAZA NUEVA",
+        "address": "PLAZA NUEVA - Mendez Núñez",
+        "latitude": 37.38881830392981,
+        "longitude": -5.995750976296489
+    },
+    {
+        "number": 43,
+		"city": "Seville",
+        "name": "RONDA CAPUCHINOS",
+        "address": "RONDA CAPUCHINOS - Maestro Quiroga",
+        "latitude": 37.399156087435365,
+        "longitude": -5.982736630025496
+    },
+    {
+        "number": 237,
+		"city": "Seville",
+        "name": "CIUDAD DE CHIVA",
+        "address": "CIUDAD DE CHIVA - Ildefonso Marañon",
+        "latitude": 37.409334585727706,
+        "longitude": -5.923254979770833
+    },
+    {
+        "number": 11,
+		"city": "Seville",
+        "name": "ALBERTO JIMÉNEZ BECERRIL",
+        "address": "Avda Alberto Jiménez Becerril - Antes Maimonides",
+        "latitude": 37.4071428838914,
+        "longitude": -5.99259029973418
+    },
+    {
+        "number": 218,
+		"city": "Seville",
+        "name": "PLAZA DEL ALTOZANO",
+        "address": "PLAZA DEL ALTOZANO - San Jorge",
+        "latitude": 37.38512441847878,
+        "longitude": -6.003542147441712
+    },
+    {
+        "number": 27,
+		"city": "Seville",
+        "name": "AVENIDA DE LLANES",
+        "address": "AVENIDA DE LLANES - Aprox Escultor Francisco Buiza",
+        "latitude": 37.403877544974165,
+        "longitude": -5.972090147223454
+    },
+    {
+        "number": 1,
+		"city": "Seville",
+        "name": "GLORIETA OLIMPICA",
+        "address": "GLORIETA OLIMPICA - Concejal Alberto Jiménez-Becerril",
+        "latitude": 37.4129235511391,
+        "longitude": -5.98890593824315
+    },
+    {
+        "number": 196,
+		"city": "Seville",
+        "name": "ESTRELLA CANOPUS",
+        "address": "ESTRELLA CANOPUS - estrella Betelgeuse",
+        "latitude": 37.42470162875488,
+        "longitude": -5.970101152202059
+    },
+    {
+        "number": 217,
+		"city": "Seville",
+        "name": "DE LA A.D.A.",
+        "address": "DE LA A.D.A. - Jerusalén",
+        "latitude": 37.393874505420214,
+        "longitude": -5.962371106824864
+    },
+    {
+        "number": 62,
+		"city": "Seville",
+        "name": "PLAZA DE ARMAS",
+        "address": "PLAZA DE ARMAS - Avda Torneo (estación de autobuses)",
+        "latitude": 37.391061482462725,
+        "longitude": -6.003150248813141
+    },
+    {
+        "number": 153,
+		"city": "Seville",
+        "name": "AVENIDA REINA MERCEDES",
+        "address": "AVENIDA REINA MERCEDES - Escuela de arquitectura",
+        "latitude": 37.36297137649665,
+        "longitude": -5.986262173333679
+    },
+    {
+        "number": 216,
+		"city": "Seville",
+        "name": "ANTIOQUIA",
+        "address": "ANTIOQUIA - Avda de Pedro Romero",
+        "latitude": 37.39993753083735,
+        "longitude": -5.95628508908707
+    },
+    {
+        "number": 140,
+		"city": "Seville",
+        "name": "140 NUESTRA SEÑORA DE LAS MERCEDES",
+        "address": "140 NUESTRA SEÑORA DE LAS MERCEDES",
+        "latitude": 37.3723704173039,
+        "longitude": -5.97736214754443
+    },
+    {
+        "number": 48,
+		"city": "Seville",
+        "name": "CHURRUCA",
+        "address": "CHURRUCA - Gonzáles Cuadrado",
+        "latitude": 37.39715651121527,
+        "longitude": -5.991066209916829
+    },
+    {
+        "number": 248,
+		"city": "Seville",
+        "name": "GLORIETA DE LOS FERROVIARIOS",
+        "address": "GLORIETA DE LOS FERROVIARIOS - Navarra",
+        "latitude": 37.421903023693936,
+        "longitude": -5.983004288085699
+    },
+    {
+        "number": 80,
+		"city": "Seville",
+        "name": "LUIS MONTOTO",
+        "address": "LUIS MONTOTO - Alberto Duero",
+        "latitude": 37.3876274768589,
+        "longitude": -5.98102716921146
+    },
+    {
+        "number": 17,
+		"city": "Seville",
+        "name": "DE MADRESELVA",
+        "address": "DE MADRESELVA - Ronda de Pio XII",
+        "latitude": 37.40715155556869,
+        "longitude": -5.978840172776446
+    },
+    {
+        "number": 49,
+		"city": "Seville",
+        "name": "ALAMEDA DE HERCULES",
+        "address": "ALAMEDA DE HERCULES - Amor de Dios",
+        "latitude": 37.39686550900737,
+        "longitude": -5.99392721978722
+    },
+    {
+        "number": 91,
+		"city": "Seville",
+        "name": "PROCURADOR",
+        "address": "PROCURADOR - Clara de Jesús Monteto",
+        "latitude": 37.38690746421921,
+        "longitude": -6.007674262301094
+    },
+    {
+        "number": 110,
+		"city": "Seville",
+        "name": "CIUDAD DE RONDA",
+        "address": "Ciudad de Ronda - Avda Carlos V",
+        "latitude": 37.37972144428237,
+        "longitude": -5.983801174387398
+    },
+    {
+        "number": 184,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE MANUEL DEL VALLE",
+        "address": "AVENIDA ALCALDE MANUEL DEL VALLE - San Juan de la Salle",
+        "latitude": 37.408524564095075,
+        "longitude": -5.97049314429485
+    },
+    {
+        "number": 133,
+		"city": "Seville",
+        "name": "AVENIDA SANTA FE",
+        "address": "AVENIDA SANTA FE - Virgen de la Oliva",
+        "latitude": 37.37403941410158,
+        "longitude": -6.004198242683363
+    },
+    {
+        "number": 115,
+		"city": "Seville",
+        "name": "LOPEZ DE GOMARA",
+        "address": "LOPEZ DE GOMARA - En frente Instituto Adolfo Becker",
+        "latitude": 37.377892428375446,
+        "longitude": -6.007237255573729
+    },
+    {
+        "number": 187,
+		"city": "Seville",
+        "name": "DOCTOR LAFFON",
+        "address": "DOCTOR LAFFON - Efeso",
+        "latitude": 37.39540051410288,
+        "longitude": -5.964043114126317
+    },
+    {
+        "number": 191,
+		"city": "Seville",
+        "name": "GLORIETA CARLOS CANO",
+        "address": "GLORIETA CARLOS CANO - Blas Infante",
+        "latitude": 37.37411641267212,
+        "longitude": -6.008853259077473
+    },
+    {
+        "number": 165,
+		"city": "Seville",
+        "name": "AVENIDA DE ANDALUCIA",
+        "address": "AVENIDA DE ANDALUCIA - Centro Comercial Los Arcos",
+        "latitude": 37.38764548429808,
+        "longitude": -5.96095309881845
+    },
+    {
+        "number": 205,
+		"city": "Seville",
+        "name": "AVENIDA KANSAS CITY",
+        "address": "AVENIDA KANSAS CITY - Pza el Tato",
+        "latitude": 37.39981714629299,
+        "longitude": -5.961922341869038
+    },
+    {
+        "number": 149,
+		"city": "Seville",
+        "name": "ARROYO",
+        "address": "ARROYO - Tena",
+        "latitude": 37.397829929383,
+        "longitude": -5.97567172039552
+    },
+    {
+        "number": 259,
+		"city": "Seville",
+        "name": "OCHO DE MARZO",
+        "address": "Esquina Aguila Perdicera",
+        "latitude": 37.36731840562508,
+        "longitude": -5.954117063090828
+    },
+    {
+        "number": 250,
+		"city": "Seville",
+        "name": "DE SALVADOR ALLENDE",
+        "address": "DE SALVADOR ALLENDE - de Marruecos",
+        "latitude": 37.421879,
+        "longitude": -5.985663
+    },
+    {
+        "number": 106,
+		"city": "Seville",
+        "name": "AVENIDA EDUARDO DATO",
+        "address": "AVENIDA EDUARDO DATO - Oscar Carvallo",
+        "latitude": 37.383797462883464,
+        "longitude": -5.977454154468565
+    },
+    {
+        "number": 22,
+		"city": "Seville",
+        "name": "AVENIDA DE LLANES",
+        "address": "AVENIDA DE LLANES - Avda de Miraflores",
+        "latitude": 37.40512954896668,
+        "longitude": -5.974831157557763
+    },
+    {
+        "number": 222,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE LUIS URUÑUELA",
+        "address": "AVENIDA ALCALDE LUIS URUÑUELA - Palacio de los Congresos",
+        "latitude": 37.40508356497133,
+        "longitude": -5.933616012901859
+    },
+    {
+        "number": 177,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE JUAN FERNÁNDEZ",
+        "address": "AVENIDA ALCALDE JUAN FERNÁNDEZ - Profesor Buenaventura Pinillos",
+        "latitude": 37.373068423133994,
+        "longitude": -5.9690941189446
+    },
+    {
+        "number": 88,
+		"city": "Seville",
+        "name": "AMERICO VESPUCIO",
+        "address": "AMERICO VESPUCIO - Hermanos d'Eluyar",
+        "latitude": 37.40934127713802,
+        "longitude": -6.006338859390215
+    },
+    {
+        "number": 97,
+		"city": "Seville",
+        "name": "PASEO DE CRISTÓBAL COLÓN",
+        "address": "PASEO DE CRISTÓBAL COLÓN - Torre del Oro",
+        "latitude": 37.381535447210965,
+        "longitude": -5.995552216661944
+    },
+    {
+        "number": 7,
+		"city": "Seville",
+        "name": "AMÉRICO VESPUCIO",
+        "address": "AMÉRICO VESPUCIO - de Jacques Cousteau",
+        "latitude": 37.4074694906696,
+        "longitude": -6.007603350403363
+    },
+    {
+        "number": 45,
+		"city": "Seville",
+        "name": "CARRETERA DE CARMONA",
+        "address": "CARRETERA DE CARMONA - de Francisco de Ariño",
+        "latitude": 37.39992052707672,
+        "longitude": -5.97781616502751
+    },
+    {
+        "number": 86,
+		"city": "Seville",
+        "name": "CAMINO DE LOS DESCUBRIMIENTOS",
+        "address": "CAMINO DE LOS DESCUBRIMIENTOS - Pasarela de la Cartuja",
+        "latitude": 37.39707250530929,
+        "longitude": -6.006304263337968
+    },
+    {
+        "number": 5,
+		"city": "Seville",
+        "name": "CAMINO DE LOS DESCUBRIMIENTOS",
+        "address": "CAMINO DE LOS DESCUBRIMIENTOS - Thomás Alba Edison",
+        "latitude": 37.41104356266495,
+        "longitude": -6.001959256107801
+    },
+    {
+        "number": 164,
+		"city": "Seville",
+        "name": "LUIS MONTOTO",
+        "address": "LUIS MONTOTO - El Greco",
+        "latitude": 37.387649350924015,
+        "longitude": -5.965655252045698
+    },
+    {
+        "number": 4,
+		"city": "Seville",
+        "name": "LEONARDO DA VINCI",
+        "address": "LEONARDO DA VINCI - Aprox Thomas Alba Edison",
+        "latitude": 37.41011155757378,
+        "longitude": -6.005722268777397
+    },
+    {
+        "number": 136,
+		"city": "Seville",
+        "name": "ASUNCIÓN",
+        "address": "ASUNCIÓN - Virgen de la Antigua",
+        "latitude": 37.37311941284756,
+        "longitude": -5.997610219028108
+    },
+    {
+        "number": 176,
+		"city": "Seville",
+        "name": "AVENIDA DE LA CIUDAD JARDÍN",
+        "address": "AVENIDA DE LA CIUDAD JARDÍN - Profesor Braña",
+        "latitude": 37.3775594419921,
+        "longitude": -5.966557112643772
+    },
+    {
+        "number": 83,
+		"city": "Seville",
+        "name": "AVENIDA LA BUHAIRA",
+        "address": "AVENIDA LA BUHAIRA - Avda Luis Montoto",
+        "latitude": 37.386955475268515,
+        "longitude": -5.978051158384551
+    },
+    {
+        "number": 15,
+		"city": "Seville",
+        "name": "DR MARAÑON",
+        "address": "DR MARAÑON - San Juan de Ribera",
+        "latitude": 37.40604157176221,
+        "longitude": -5.985733700014785
+    },
+    {
+        "number": 104,
+		"city": "Seville",
+        "name": "AVENIDA EDUARDO DATO",
+        "address": "AVENIDA EDUARDO DATO - Fuenteovejuna",
+        "latitude": 37.38413592692444,
+        "longitude": -5.979676676296534
+    },
+    {
+        "number": 193,
+		"city": "Seville",
+        "name": "AVENIDA DE CORIA",
+        "address": "AVENIDA DE CORIA - Coruña",
+        "latitude": 37.38111143948424,
+        "longitude": -6.012005274166835
+    },
+    {
+        "number": 212,
+		"city": "Seville",
+        "name": "AVENIDA REINIDO UNIDO",
+        "address": "AVENIDA REINIDO UNIDO - Avda de Italia",
+        "latitude": 37.351582337691354,
+        "longitude": -5.977784137525409
+    },
+    {
+        "number": 179,
+		"city": "Seville",
+        "name": "RONDA URBANA NORTE",
+        "address": "RONDA URBANA NORTE - de Rimas",
+        "latitude": 37.413163177395056,
+        "longitude": -5.985131221637643
+    },
+    {
+        "number": 166,
+		"city": "Seville",
+        "name": "RONDA DEL TAMARGUILLO",
+        "address": "RONDA DEL TAMARGUILLO - Centro Comercial Los Arcos",
+        "latitude": 37.38859048869724,
+        "longitude": -5.959240093357595
+    },
+    {
+        "number": 18,
+		"city": "Seville",
+        "name": "AVENIDA EDUARDO DATO",
+        "address": "AVENIDA EDUARDO DATO - Marqués del Nervión",
+        "latitude": 37.38207545943934,
+        "longitude": -5.968121120738779
+    },
+    {
+        "number": 6,
+		"city": "Seville",
+        "name": "CAMINO DE LOS DESCUBRIMIENTOS",
+        "address": "CAMINO DE LOS DESCUBRIMIENTOS - Isaac Newton",
+        "latitude": 37.40661378981103,
+        "longitude": -6.002977947581603
+    },
+    {
+        "number": 99,
+		"city": "Seville",
+        "name": "AMÉRICO VESPUCIO",
+        "address": "AMÉRICO VESPUCIO - Gerencia de Urbanismo de Sevilla",
+        "latitude": 37.397394505010546,
+        "longitude": -6.010641278744458
+    },
+    {
+        "number": 13,
+		"city": "Seville",
+        "name": "FERIA",
+        "address": "FERIA - Resolana",
+        "latitude": 37.40313353475898,
+        "longitude": -5.991918216341031
+    },
+    {
+        "number": 69,
+		"city": "Seville",
+        "name": "JOSE LAGUILLO",
+        "address": "JOSE LAGUILLO - Pablo Iglesias",
+        "latitude": 37.39201049535389,
+        "longitude": -5.978293162147303
+    },
+    {
+        "number": 170,
+		"city": "Seville",
+        "name": "PLAZA ANTONIO APARICIO HERRERO",
+        "address": "PLAZA ANTONIO APARICIO HERRERO - San Juan de Dios",
+        "latitude": 37.37896644673701,
+        "longitude": -5.968923121755333
+    },
+    {
+        "number": 198,
+		"city": "Seville",
+        "name": "MAR DE ALBORÁN",
+        "address": "MAR DE ALBORÁN - Camino de los Toros",
+        "latitude": 37.42044661256891,
+        "longitude": -5.967956142243533
+    },
+    {
+        "number": 219,
+		"city": "Seville",
+        "name": "DE LA A.D.A.",
+        "address": "DE LA A.D.A. - de Tesalónica",
+        "latitude": 37.3905365010144,
+        "longitude": -5.959072093702479
+    },
+    {
+        "number": 137,
+		"city": "Seville",
+        "name": "AVENIDA DE LA BORBOLLA",
+        "address": "AVENIDA DE LA BORBOLLA - Porvenir",
+        "latitude": 37.37375841984501,
+        "longitude": -5.985517176959137
+    },
+    {
+        "number": 68,
+		"city": "Seville",
+        "name": "JUAN ANTONIO CABESTANY",
+        "address": "JUAN ANTONIO CABESTANY - Júpiter",
+        "latitude": 37.39029248788509,
+        "longitude": -5.979964167018684
+    },
+    {
+        "number": 254,
+		"city": "Seville",
+        "name": "ALHAMBRA",
+        "address": "ALHAMBRA.- Esquina Carretera Bellasvistas",
+        "latitude": 37.32942977136568,
+        "longitude": -5.968971229675001
+    },
+    {
+        "number": 138,
+		"city": "Seville",
+        "name": "RAMÓN CARANDE",
+        "address": "RAMÓN CARANDE - San Salvador",
+        "latitude": 37.374370424709774,
+        "longitude": -5.978934154215835
+    },
+    {
+        "number": 240,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE LUIS URUÑUELA",
+        "address": "AVENIDA ALCALDE LUIS URUÑUELA - Cueva de la Pileta",
+        "latitude": 37.402579544488994,
+        "longitude": -5.940435585086025
+    },
+    {
+        "number": 260,
+		"city": "Seville",
+        "name": "REVOLTOSA",
+        "address": "Aproximado Parque Amate",
+        "latitude": 37.377023215492045,
+        "longitude": -5.947035486155897
+    },
+    {
+        "number": 44,
+		"city": "Seville",
+        "name": "RONDA CAPUCHINOS",
+        "address": "RONDA CAPUCHINOS - Corinto",
+        "latitude": 37.39833897229492,
+        "longitude": -5.981640026763738
+    },
+    {
+        "number": 84,
+		"city": "Seville",
+        "name": "JOSÉ MARÍA MORENO GALVÁN",
+        "address": "JOSÉ MARÍA MORENO GALVÁN - Juan Antonio Cabestany",
+        "latitude": 37.387350475004816,
+        "longitude": -5.983068176211725
+    },
+    {
+        "number": 245,
+		"city": "Seville",
+        "name": "LAS LEANDRAS",
+        "address": "Avda Los Gavilanes",
+        "latitude": 37.37539881124939,
+        "longitude": -5.952549466245021
+    },
+    {
+        "number": 74,
+		"city": "Seville",
+        "name": "PLAZA PILATOS",
+        "address": "PLAZA PILATOS - San Esteban",
+        "latitude": 37.38977148326459,
+        "longitude": -5.986897191039803
+    },
+    {
+        "number": 42,
+		"city": "Seville",
+        "name": "PLAZA CRONISTA",
+        "address": "PLAZA CRONISTA - Divina Pastora",
+        "latitude": 37.3987059174522,
+        "longitude": -5.989460016816095
+    },
+    {
+        "number": 150,
+		"city": "Seville",
+        "name": "SAN JUAN BOSCO",
+        "address": "SAN JUAN BOSCO - Arroyo",
+        "latitude": 37.39674851413617,
+        "longitude": -5.978634166071806
+    },
+    {
+        "number": 199,
+		"city": "Seville",
+        "name": "MAR DE ALBORÁN",
+        "address": "MAR DE ALBORÁN - Corral de los Olmos",
+        "latitude": 37.417855601747895,
+        "longitude": -5.969296145455354
+    },
+    {
+        "number": 93,
+		"city": "Seville",
+        "name": "RONDA DE TRIANA",
+        "address": "RONDA DE TRIANA - San Vicente de Paul",
+        "latitude": 37.38312344793415,
+        "longitude": -6.010876271362328
+    },
+    {
+        "number": 113,
+		"city": "Seville",
+        "name": "PLAZA SAN MARTÍN DE PORRES",
+        "address": "PLAZA SAN MARTÍN DE PORRES - Avda Alvar Núñez",
+        "latitude": 37.380778439190046,
+        "longitude": -6.009179264054355
+    },
+    {
+        "number": 94,
+		"city": "Seville",
+        "name": "PLAZA DEL ZURRAQUE",
+        "address": "PLAZA DEL ZURRAQUE - Doc. Jeronimo Pou",
+        "latitude": 37.383369449862734,
+        "longitude": -6.008294262440252
+    },
+    {
+        "number": 152,
+		"city": "Seville",
+        "name": "SAMANIEGO",
+        "address": "SAMANIEGO - Esperanza de la Trinidad",
+        "latitude": 37.3957905118738,
+        "longitude": -5.97437315057576
+    },
+    {
+        "number": 109,
+		"city": "Seville",
+        "name": "AVENIDA SAN FRANCISCO JAVIER",
+        "address": "AVENIDA SAN FRANCISCO JAVIER - Camilo José Cela",
+        "latitude": 37.37988413609134,
+        "longitude": -5.974382770011586
+    },
+    {
+        "number": 98,
+		"city": "Seville",
+        "name": "AVENIDA DE ROMA",
+        "address": "AVENIDA DE ROMA - Puerta de Jerez",
+        "latitude": 37.382043350305,
+        "longitude": -5.993030169261488
+    },
+    {
+        "number": 3,
+		"city": "Seville",
+        "name": "PUERTA DE LA BARQUETA",
+        "address": "PUERTA DE LA BARQUETA - Puente de la Barqueta",
+        "latitude": 37.40564154237001,
+        "longitude": -5.998488240831263
+    },
+    {
+        "number": 19,
+		"city": "Seville",
+        "name": "PARLAMENTO",
+        "address": "PARLAMENTO - Don Fadrique",
+        "latitude": 37.403327536585486,
+        "longitude": -5.989037206345736
+    },
+    {
+        "number": 147,
+		"city": "Seville",
+        "name": "CARRETERA DE CARMONA",
+        "address": "CARRETERA DE CARMONA - Maestro Solano",
+        "latitude": 37.40079553153059,
+        "longitude": -5.975228156455095
+    },
+    {
+        "number": 185,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE MANUEL DEL VALLE",
+        "address": "AVENIDA ALCALDE MANUEL DEL VALLE - Alejandro Sawa",
+        "latitude": 37.40509431569403,
+        "longitude": -5.968862135165761
+    },
+    {
+        "number": 63,
+		"city": "Seville",
+        "name": "SAN PABLO",
+        "address": "SAN PABLO - Bailén",
+        "latitude": 37.390456481894525,
+        "longitude": -5.998103230753266
+    },
+    {
+        "number": 204,
+		"city": "Seville",
+        "name": "DOCTOR LAFFON",
+        "address": "DOCTOR LAFFON - Tesalonica",
+        "latitude": 37.39768969188425,
+        "longitude": -5.96160136486722
+    },
+    {
+        "number": 78,
+		"city": "Seville",
+        "name": "ALFARERIA",
+        "address": "ALFARERIA - Ronda de Triana",
+        "latitude": 37.38857113316299,
+        "longitude": -6.010282378350756
+    },
+    {
+        "number": 130,
+		"city": "Seville",
+        "name": "GLORIETA REPUBLICA DOMINICANA",
+        "address": "GLORIETA REPUBLICA DOMINICANA - López de Gomara",
+        "latitude": 37.37574541795484,
+        "longitude": -6.005247727302032
+    },
+    {
+        "number": 145,
+		"city": "Seville",
+        "name": "AVENIDA REINA MERCEDES",
+        "address": "AVENIDA REINA MERCEDES - Profesor García González",
+        "latitude": 37.360233228861155,
+        "longitude": -5.986318234050904
+    },
+    {
+        "number": 239,
+		"city": "Seville",
+        "name": "CIUDAD DE LIRIA",
+        "address": "CIUDAD DE LIRIA - Avda de Fernando",
+        "latitude": 37.408691582745696,
+        "longitude": -5.927718994548674
+    },
+    {
+        "number": 29,
+		"city": "Seville",
+        "name": "CARRETERA DE CARMONA",
+        "address": "CARRETERA DE CARMONA - Avda de Llanes",
+        "latitude": 37.402463540044714,
+        "longitude": -5.970145139589757
+    },
+    {
+        "number": 182,
+		"city": "Seville",
+        "name": "VICTORIA KENT",
+        "address": "VICTORIA KENT - Avda Alcalde Manuel del Valle",
+        "latitude": 37.41459658707776,
+        "longitude": -5.973881159661203
+    },
+    {
+        "number": 31,
+		"city": "Seville",
+        "name": "AVENIDA DE MIRAFLORES",
+        "address": "AVENIDA DE MIRAFLORES - Albaida",
+        "latitude": 37.40054152885159,
+        "longitude": -5.979781172277264
+    },
+    {
+        "number": 172,
+		"city": "Seville",
+        "name": "RONDA TAMARGUILLO",
+        "address": "RONDA TAMARGUILLO - Alfonso Laso de la Vega",
+        "latitude": 37.367172398818624,
+        "longitude": -5.971211122957581
+    },
+    {
+        "number": 158,
+		"city": "Seville",
+        "name": "AVENIDA CARDENAL BUENO MONREAL",
+        "address": "AVENIDA CARDENAL BUENO MONREAL - Bogota",
+        "latitude": 37.3688534016955,
+        "longitude": -5.981618160442233
+    },
+    {
+        "number": 163,
+		"city": "Seville",
+        "name": "SINAÍ",
+        "address": "SINAÍ - Baltazar Gracián",
+        "latitude": 37.38995448989595,
+        "longitude": -5.970802134688754
+    },
+    {
+        "number": 156,
+		"city": "Seville",
+        "name": "AVENIDA KANSAS CITY",
+        "address": "AVENIDA KANSAS CITY - Baltasar Gracián",
+        "latitude": 37.391453411096606,
+        "longitude": -5.972761755091493
+    },
+    {
+        "number": 161,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE MANUEL DEL VALLE",
+        "address": "AVENIDA ALCALDE MANUEL DEL VALLE - Baltasar de Alcázar",
+        "latitude": 37.40000053060032,
+        "longitude": -5.969103134518509
+    },
+    {
+        "number": 23,
+		"city": "Seville",
+        "name": "PARLAMENTO",
+        "address": "PARLAMENTO - San Juan de Ribera",
+        "latitude": 37.403337536978945,
+        "longitude": -5.98787920228648
+    },
+    {
+        "number": 120,
+		"city": "Seville",
+        "name": "GLORIETA SAN DIEGO",
+        "address": "GLORIETA SAN DIEGO - Palos de la Frontera",
+        "latitude": 37.37896144135567,
+        "longitude": -5.989966195594725
+    },
+    {
+        "number": 8,
+		"city": "Seville",
+        "name": "AMERICO VESPUCIO",
+        "address": "AMERICO VESPUCIO - Gregor Mendel",
+        "latitude": 37.4009693828541,
+        "longitude": -6.00938173537619
+    },
+    {
+        "number": 210,
+		"city": "Seville",
+        "name": "PASEO DE EUROPA",
+        "address": "PASEO DE EUROPA - Ava de Francia",
+        "latitude": 37.348061320332235,
+        "longitude": -5.980058142587488
+    },
+    {
+        "number": 30,
+		"city": "Seville",
+        "name": "AVENIDA EDUARDO DATO",
+        "address": "AVENIDA EDUARDO DATO - Detrás Estadio Sánchez Pizjuan",
+        "latitude": 37.382628460642394,
+        "longitude": -5.970853130640082
+    },
+    {
+        "number": 71,
+		"city": "Seville",
+        "name": "AVENIDA KANSAS CITY",
+        "address": "AVENIDA KANSAS CITY - Hotel Occidental",
+        "latitude": 37.39003048884624,
+        "longitude": -5.974491147670695
+    },
+    {
+        "number": 108,
+		"city": "Seville",
+        "name": "AVENIDA EDUARDO DATO",
+        "address": "AVENIDA EDUARDO DATO - Avda de San Francisco Javier",
+        "latitude": 37.382852503457265,
+        "longitude": -5.973249491935667
+    },
+    {
+        "number": 2,
+		"city": "Seville",
+        "name": "GRAN PLAZA",
+        "address": "GRAN PLAZA - Marquez de Pickman",
+        "latitude": 37.381578045327934,
+        "longitude": -5.96522396639778
+    },
+    {
+        "number": 37,
+		"city": "Seville",
+        "name": "ALAMEDA DE HÉRCULES",
+        "address": "ALAMEDA DE HÉRCULES - Vulcano",
+        "latitude": 37.398785772824745,
+        "longitude": -5.99318901314001
+    },
+    {
+        "number": 233,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE LUIS URUÑUELA",
+        "address": "AVENIDA ALCALDE LUIS URUÑUELA - Estación de RENFE",
+        "latitude": 37.404112556103925,
+        "longitude": -5.937092024971125
+    },
+    {
+        "number": 230,
+		"city": "Seville",
+        "name": "AVENIDA DE LAS CIENCIAS",
+        "address": "AVENIDA DE LAS CIENCIAS - Avda de la Republica China",
+        "latitude": 37.403927559446025,
+        "longitude": -5.928139993197263
+    },
+    {
+        "number": 178,
+		"city": "Seville",
+        "name": "JOSÉ SARAMAGO",
+        "address": "JOSÉ SARAMAGO - Avda del Alcalde Juan Fernández",
+        "latitude": 37.373304076262805,
+        "longitude": -5.97391890132113
+    },
+    {
+        "number": 75,
+		"city": "Seville",
+        "name": "PLAZA SAN FRANCISCO",
+        "address": "PLAZA SAN FRANCISCO - Aprox Hernando Colón",
+        "latitude": 37.387997377700096,
+        "longitude": -5.993587446638155
+    },
+    {
+        "number": 236,
+		"city": "Seville",
+        "name": "CIUDAD DE CHIVA",
+        "address": "CIUDAD DE CHIVA - ciudad de Liria",
+        "latitude": 37.4102171143178,
+        "longitude": -5.926422374057527
+    },
+    {
+        "number": 243,
+		"city": "Seville",
+        "name": "GLORIETA DEL PRIMERO DE MAYO",
+        "address": "GLORIETA DEL PRIMERO DE MAYO - Carlos Marx",
+        "latitude": 37.380439481169994,
+        "longitude": -5.953481197462845
+    },
+    {
+        "number": 54,
+		"city": "Seville",
+        "name": "PLAZA SAN JUAN DE LA PALMA",
+        "address": "PLAZA SAN JUAN DE LA PALMA - iglesia",
+        "latitude": 37.39523950356959,
+        "longitude": -5.991050208758028
+    },
+    {
+        "number": 28,
+		"city": "Seville",
+        "name": "RAFAEL SALGADO",
+        "address": "RAFAEL SALGADO - Castillo Alcala de Guadaira",
+        "latitude": 37.360261369216595,
+        "longitude": -5.976659138066708
+    },
+    {
+        "number": 175,
+		"city": "Seville",
+        "name": "RONDA TAMARGUILLO",
+        "address": "RONDA TAMARGUILLO - Plaza Ruperto Chapí",
+        "latitude": 37.37775744487495,
+        "longitude": -5.960870092813821
+    },
+    {
+        "number": 201,
+		"city": "Seville",
+        "name": "PINO MONTANO",
+        "address": "PINO MONTANO - Estafeta",
+        "latitude": 37.41568359361039,
+        "longitude": -5.967858139167567
+    },
+    {
+        "number": 95,
+		"city": "Seville",
+        "name": "AMÉRICO VESPUCIO",
+        "address": "AMÉRICO VESPUCIO - Juan Bautista Muñoz",
+        "latitude": 37.41217356557977,
+        "longitude": -6.006338272120392
+    },
+    {
+        "number": 57,
+		"city": "Seville",
+        "name": "PLAZA CRISTO DE BURGOS",
+        "address": "PLAZA CRISTO DE BURGOS - Pza de San Pedro",
+        "latitude": 37.39231861674279,
+        "longitude": -5.989705187094715
+    },
+    {
+        "number": 225,
+		"city": "Seville",
+        "name": "FLOR DE RETAMA",
+        "address": "FLOR DE RETAMA - Centro Deportivo Entreflores",
+        "latitude": 37.397390540237105,
+        "longitude": -5.918776956284244
+    },
+    {
+        "number": 231,
+		"city": "Seville",
+        "name": "AVENIDA ALCALDE LUIS URUÑUELA",
+        "address": "AVENIDA ALCALDE LUIS URUÑUELA - Paseo Miguel de Unamuno",
+        "latitude": 37.401673546456635,
+        "longitude": -5.942139041014662
+    },
+    {
+        "number": 107,
+		"city": "Seville",
+        "name": "LUIS MORALES",
+        "address": "LUIS MORALES - Nervión Plaza",
+        "latitude": 37.38425946651307,
+        "longitude": -5.972591137677613
+    },
+    {
+        "number": 127,
+		"city": "Seville",
+        "name": "VIRGEN DE LA VICTORIA",
+        "address": "VIRGEN DE LA VICTORIA - Asunción",
+        "latitude": 37.37764043077863,
+        "longitude": -5.997947222820481
+    },
+    {
+        "number": 139,
+		"city": "Seville",
+        "name": "AVENIDA DIEGO MARTINEZ BARRIO",
+        "address": "AVENIDA DIEGO MARTINEZ BARRIO - Avda Gal Garcia de la Herranz",
+        "latitude": 37.375075258863696,
+        "longitude": -5.975863125578401
+    },
+    {
+        "number": 197,
+		"city": "Seville",
+        "name": "AGRICULTORES",
+        "address": "AGRICULTORES - estrella Betelgeuse",
+        "latitude": 37.423438625065074,
+        "longitude": -5.96640413851815
+    },
+    {
+        "number": 181,
+		"city": "Seville",
+        "name": "RONDA URBANA NORTE",
+        "address": "RONDA URBANA NORTE - Doctor Fedriani",
+        "latitude": 37.41335157894307,
+        "longitude": -5.982568189409848
+    },
+    {
+        "number": 34,
+		"city": "Seville",
+        "name": "PLAZA PUMAREJO",
+        "address": "PLAZA PUMAREJO - San Luis",
+        "latitude": 37.40102752757453,
+        "longitude": -5.988578203413862
+    },
+    {
+        "number": 89,
+		"city": "Seville",
+        "name": "ADRIANO",
+        "address": "ADRIANO - Antonia Díaz",
+        "latitude": 37.38648146613877,
+        "longitude": -5.997790227366178
+    },
+    {
+        "number": 252,
+		"city": "Seville",
+        "name": "GASPAR CALDERAS",
+        "address": "GASPAR CALDERAS.- Esquina con Carretera Bellasvistas",
+        "latitude": 37.32458203503861,
+        "longitude": -5.968972128124462
+    },
+    {
+        "number": 40,
+		"city": "Seville",
+        "name": "AVENIDA REINA MERCEDES",
+        "address": "AVENIDA REINA MERCEDES - Glorieta Alcalde de Parias Merry",
+        "latitude": 37.35635082669173,
+        "longitude": -5.986459877403918
+    },
+    {
+        "number": 183,
+		"city": "Seville",
+        "name": "ALCALDE MANUEL DEL VALLE",
+        "address": "ALCALDE MANUEL DEL VALLE - Pino Montano",
+        "latitude": 37.41101757377389,
+        "longitude": -5.97121914827267
+    },
+    {
+        "number": 238,
+		"city": "Seville",
+        "name": "CIUDAD DE CHIVA",
+        "address": "CIUDAD DE CHIVA - Pza del Árbol Rey",
+        "latitude": 37.408132573830756,
+        "longitude": -5.919993048486191
+    },
+    {
+        "number": 50,
+		"city": "Seville",
+        "name": "DE HERNÁN CORTÉS",
+        "address": "DE HERNÁN CORTÉS - Eslava",
+        "latitude": 37.397554510745486,
+        "longitude": -5.996695229895344
+    },
+    {
+        "number": 229,
+		"city": "Seville",
+        "name": "AVENIDA AERONAUTICA",
+        "address": "AVENIDA AERONAUTICA - Avda del Deporte",
+        "latitude": 37.38735449491008,
+        "longitude": -5.919918954593122
+    },
+    {
+        "number": 151,
+		"city": "Seville",
+        "name": "URQUIZA",
+        "address": "URQUIZA - Venecia",
+        "latitude": 37.394544466945845,
+        "longitude": -5.979897194354694
+    },
+    {
+        "number": 116,
+		"city": "Seville",
+        "name": "MANUEL SIUROT",
+        "address": "MANUEL SIUROT - Hospital Universitario Virgen del Rocio",
+        "latitude": 37.36143037206055,
+        "longitude": -5.981603156091943
+    },
+    {
+        "number": 39,
+		"city": "Seville",
+        "name": "PLAZA SAN ANTONIO DE PADUA",
+        "address": "PLAZA SAN ANTONIO DE PADUA - Marqués de la Mina",
+        "latitude": 37.397840022304365,
+        "longitude": -5.998504686877961
+    },
+    {
+        "number": 155,
+		"city": "Seville",
+        "name": "AVENIDA KANSAS CITY",
+        "address": "AVENIDA KANSAS CITY - Avda El Greco",
+        "latitude": 37.392910501713985,
+        "longitude": -5.970739136171973
+    },
+    {
+        "number": 131,
+		"city": "Seville",
+        "name": "TABLADILLA",
+        "address": "TABLADILLA - Cardenal Ilundaín",
+        "latitude": 37.364750385373725,
+        "longitude": -5.981452157485012
+    },
+    {
+        "number": 35,
+		"city": "Seville",
+        "name": "ALAMEDA DE HERCULES",
+        "address": "ALAMEDA DE HERCULES - Peris Mencheta",
+        "latitude": 37.400682524351275,
+        "longitude": -5.993630220939186
+    },
+    {
+        "number": 56,
+		"city": "Seville",
+        "name": "PLAZA JERÓNIMO DE CORDOBA",
+        "address": "PLAZA JERONIMO DE CORDOBA- Escuelas Pías",
+        "latitude": 37.39308649644441,
+        "longitude": -5.98703819345455
+    },
+    {
+        "number": 129,
+		"city": "Seville",
+        "name": "VIRGEN DE LUJAN",
+        "address": "VIRGEN DE LUJAN - Virgen de la Victoria",
+        "latitude": 37.374668417254036,
+        "longitude": -6.002455236928109
+    },
+    {
+        "number": 124,
+		"city": "Seville",
+        "name": "ENRAMADILLA",
+        "address": "ENRAMADILLA - Barrau",
+        "latitude": 37.3777304387441,
+        "longitude": -5.97724415022871
+    },
+    {
+        "number": 92,
+		"city": "Seville",
+        "name": "RONDA DE TRIANA",
+        "address": "RONDA DE TRIANA - de Manuel Arellano",
+        "latitude": 37.385838469752265,
+        "longitude": -6.011220377621846
+    },
+    {
+        "number": 111,
+		"city": "Seville",
+        "name": "PZA FARMACÉUTICO MURILLO HERRERA",
+        "address": "PZA FARMACÉUTICO MURILLO HERRERA - Pajes de Corro",
+        "latitude": 37.3813174443225,
+        "longitude": -6.001053235842167
+    },
+    {
+        "number": 189,
+		"city": "Seville",
+        "name": "AVENIDA HYTASA",
+        "address": "AVENIDA HYTASA - Nuestra Señora de los Dolores",
+        "latitude": 37.37005341642907,
+        "longitude": -5.959496083704879
+    },
+    {
+        "number": 174,
+		"city": "Seville",
+        "name": "RONDA TAMARGUILLO",
+        "address": "RONDA TAMARGUILLO - Marqués de Pickman",
+        "latitude": 37.38061245637617,
+        "longitude": -5.960574093426685
+    },
+    {
+        "number": 55,
+		"city": "Seville",
+        "name": "DE MARIA AUXILIADORA",
+        "address": "DE MARIA AUXILIADORA - Gonzalo de Bilbao",
+        "latitude": 37.393318498568895,
+        "longitude": -5.983766182098622
+    },
+    {
+        "number": 223,
+		"city": "Seville",
+        "name": "GEMA",
+        "address": "GEMA - Avda de las Ciencias",
+        "latitude": 37.40073135956411,
+        "longitude": -5.92632420198497
+    },
+    {
+        "number": 121,
+		"city": "Seville",
+        "name": "DOCTOR PEDRO DE CASTRO",
+        "address": "DOCTOR PEDRO DE CASTRO - Doc. Gabriel Sánchez",
+        "latitude": 37.377158434736266,
+        "longitude": -5.981935166355452
+    },
+    {
+        "number": 213,
+		"city": "Seville",
+        "name": "AVENIDA DE ANDALUCIA",
+        "address": "AVENIDA DE ANDALUCIA - Cochera de TUSSAM",
+        "latitude": 37.38714348690405,
+        "longitude": -5.948410054553437
+    },
+    {
+        "number": 25,
+		"city": "Seville",
+        "name": "AVENIDA DE LA CRUZ ROJA",
+        "address": "AVENIDA DE LA CRUZ ROJA - Albaida",
+        "latitude": 37.40313253870445,
+        "longitude": -5.981109178424791
+    },
+    {
+        "number": 85,
+		"city": "Seville",
+        "name": "PASEO CATALINA RIBERA",
+        "address": "PASEO CATALINA RIBERA - Frente a la Diputación Provincial",
+        "latitude": 37.38535146566221,
+        "longitude": -5.986785188099708
+    },
+    {
+        "number": 47,
+		"city": "Seville",
+        "name": "HINIESTA",
+        "address": "HINIESTA - Convento Santa Isabel",
+        "latitude": 37.39713251259333,
+        "longitude": -5.987037195768433
+    },
+    {
+        "number": 228,
+		"city": "Seville",
+        "name": "AVENIDA DE LAS CIENCIAS",
+        "address": "AVENIDA DE LAS CIENCIAS - Flor de Salvia",
+        "latitude": 37.394449523785354,
+        "longitude": -5.921230963560515
+    },
+    {
+        "number": 76,
+		"city": "Seville",
+        "name": "PLAZA NUEVA",
+        "address": "PLAZA NUEVA - Jaen",
+        "latitude": 37.3889394767379,
+        "longitude": -5.99564622125814
+    },
+    {
+        "number": 72,
+		"city": "Seville",
+        "name": "AMADOR DE LOS RIOS",
+        "address": "AMADOR DE LOS RIOS - Lope de Vega",
+        "latitude": 37.39071248853365,
+        "longitude": -5.982768177096753
+    },
+    {
+        "number": 180,
+		"city": "Seville",
+        "name": "DOCTOR JAIME MARCOS",
+        "address": "DOCTOR JAIME MARCOS - Avda. Doc. Fedriani",
+        "latitude": 37.40964956350476,
+        "longitude": -5.98440119371439
+    },
+    {
+        "number": 20,
+		"city": "Seville",
+        "name": "SAN JUAN DE RIBERA",
+        "address": "SAN JUAN DE RIBERA - Fray Isidoro de Sevilla",
+        "latitude": 37.404869543652175,
+        "longitude": -5.986537198461927
+    },
+    {
+        "number": 52,
+		"city": "Seville",
+        "name": "DEL INCA GARCILASO",
+        "address": "DEL INCA GARCILASO - Jerónimo de Aguilar",
+        "latitude": 37.39422649248208,
+        "longitude": -6.010309275759171
+    },
+    {
+        "number": 105,
+		"city": "Seville",
+        "name": "FRANCISCO MURILLO",
+        "address": "FRANCISCO MURILLO - Manuel Siurot",
+        "latitude": 37.358910362359936,
+        "longitude": -5.980620151182153
+    },
+    {
+        "number": 32,
+		"city": "Seville",
+        "name": "MUÑOZ LEÓN",
+        "address": "MUÑOZ LEÓN - Morera",
+        "latitude": 37.402019532357485,
+        "longitude": -5.986323196073661
+    },
+    {
+        "number": 157,
+		"city": "Seville",
+        "name": "AVENIDA CARDENAL BUENO MONREAL",
+        "address": "AVENIDA CARDENAL BUENO MONREAL - Avda Ramón Carande",
+        "latitude": 37.369799405424466,
+        "longitude": -5.978194722821982
+    },
+    {
+        "number": 114,
+		"city": "Seville",
+        "name": "GLORIETA PLUS ULTRA",
+        "address": "GLORIETA PLUS ULTRA - Estadio Manuel Ruiz de Lopera",
+        "latitude": 37.356372352725714,
+        "longitude": -5.979262144945245
+    },
+    {
+        "number": 112,
+		"city": "Seville",
+        "name": "AVDA ESPERANZA DE TRIANA",
+        "address": "AVDA ESPERANZA DE TRIANA - Plaza Amadeo Janone",
+        "latitude": 37.380153438452595,
+        "longitude": -6.004383246859136
+    },
+    {
+        "number": 134,
+		"city": "Seville",
+        "name": "VIRGEN DE LUJÁN",
+        "address": "VIRGEN DE LUJÁN - Asunción",
+        "latitude": 37.374770419100905,
+        "longitude": -5.998536223231469
+    },
+    {
+        "number": 70,
+		"city": "Seville",
+        "name": "ESTACIÓN RENFE SANTA JUSTA",
+        "address": "ESTACIÓN RENFE SANTA JUSTA",
+        "latitude": 37.39115849280489,
+        "longitude": -5.975971153511849
+    },
+    {
+        "number": 144,
+		"city": "Seville",
+        "name": "AVENIDA DE LA PALMERA",
+        "address": "AVENIDA DE LA PALMERA - Clinica de Fátima",
+        "latitude": 37.36912633937041,
+        "longitude": -5.988080397280193
+    },
+    {
+        "number": 159,
+		"city": "Seville",
+        "name": "AVENIDA CARDENAL BUENO MONREAL",
+        "address": "AVENIDA CARDENAL BUENO MONREAL - Avda Manuel Siurot",
+        "latitude": 37.36804539727759,
+        "longitude": -5.984854171329494
+    },
+    {
+        "number": 65,
+		"city": "Seville",
+        "name": "ALHÓNDIGA",
+        "address": "ALHÓNDIGA - Card. Cervantes",
+        "latitude": 37.391299488908295,
+        "longitude": -5.988140196280803
+    },
+    {
+        "number": 146,
+		"city": "Seville",
+        "name": "AVENIDA REINA MERCEDES",
+        "address": "AVENIDA REINA MERCEDES - Profesor García González",
+        "latitude": 37.360100626411395,
+        "longitude": -5.986312974875395
+    },
+    {
+        "number": 135,
+		"city": "Seville",
+        "name": "VIRGEN DE LUJÁN",
+        "address": "VIRGEN DE LUJÁN - Glorieta las Cigarreras",
+        "latitude": 37.37465142036539,
+        "longitude": -5.993801206544696
+    },
+    {
+        "number": 215,
+		"city": "Seville",
+        "name": "ZORZAL",
+        "address": "ZORZAL - Avenida de Andalucia",
+        "latitude": 37.38664148025849,
+        "longitude": -5.953981074150936
+    },
+    {
+        "number": 10,
+		"city": "Seville",
+        "name": "JOSE DIAZ",
+        "address": "JOSE DIAZ - Avda Concejal Alberto Jiménez-Becerril",
+        "latitude": 37.40938502560925,
+        "longitude": -5.990766008714238
+    }
+]

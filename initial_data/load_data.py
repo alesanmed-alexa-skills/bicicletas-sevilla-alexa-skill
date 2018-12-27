@@ -26,7 +26,15 @@ def close(client):
     client.close()
 
 def load_data():
-    pass
+    client = connect()
+
+    db = client[skill_config.DB_NAME]
+    
+    stations = json.load(open('./initial_data/Seville.json', 'r', encoding='utf-8'))
+
+    db.stations.insert_many(stations)
+
+    close(client)
 
 if __name__ == '__main__':
     load_data()
