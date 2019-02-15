@@ -38,10 +38,4 @@ for file_name in files:
 
 logger.get_logger().info('Added all handlers to SkillBuilder')
 
-logger.get_logger().info('Connecting to database')
-
-db_object.__connect()
-
-logger.get_logger().info('Database connected')
-
 handler = sb.lambda_handler()
