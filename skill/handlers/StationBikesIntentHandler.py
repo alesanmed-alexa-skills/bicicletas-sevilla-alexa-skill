@@ -9,7 +9,7 @@ from ask_sdk_core.dispatch_components import AbstractRequestHandler
 from ask_sdk_core.utils import is_request_type, is_intent_name
 from ask_sdk_model.ui import SimpleCard
 from utils import locale_functions
-from connectors import bikes_connector, db_object
+from connectors import bikes_connector, db_utils
 
 import pystache
 
@@ -39,16 +39,16 @@ class StationBikesIntentHandler(AbstractRequestHandler):
             handler_input.attributes_manager.session_attributes = attr
 
             station_data = response['data']
-            station_obj = db_object.get_station_name(int(station_nr))
+            station_name = db_utils.get_db().get_station_name(int(station_nr))
 
             if station_data.status != 'OPEN':
                 speech_text = pystache.render(texts.STATION_CLOSED_TEXT, {
-                    'station_name': station_obj['name'].title(),
+                    'station_name': station_name.title(),
                     'station_nr': station_data.number,
                 })
             else:
                 speech_text = pystache.render(texts.STATION_BIKES_TEXT, {
-                    'station_name': station_obj['name'].title(),
+                    'station_name': station_name.title(),
                     'station_nr': station_data.number,
                     'bikes_nr': station_data.available_bikes,
                 })
